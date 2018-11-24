@@ -1,0 +1,3 @@
+rootProject.name = 'spring-boot-quartz'
+
+enableFeaturePreview('IMPROVED_POM_SUPPORT')

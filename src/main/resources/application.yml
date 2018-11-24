@@ -1,0 +1,3 @@
+timeouts:
+  first-seconds: 3
+  second-seconds: 5
